@@ -1,0 +1,24 @@
+
+**Task Management Program Flow (Laid-Back Version):**
+
+1. **Get Ready:** We're all set to manage our tasks! We have a special file where we'll keep our tasks, called `tasks.json`.
+
+2. **Load Tasks:** When we start the program, we look at `tasks.json` to see if there are any tasks we saved from previous sessions. If we find some, we load them up.
+
+3. **Main Menu:** We present you with a menu to choose what you want to do:
+   - If you pick "Add Task," we ask you for the title and description of your new task, make a record of it, and say, "Task added!"
+   - If you choose "View Tasks," we show you all the tasks you have, telling you if they're completed or not.
+   - If you select "Mark Task as Completed," you can let us know when you've finished a task, and we'll make a note of it.
+   - If you say "Delete Task," we'll help you remove a task you no longer need.
+   - And if you're ready to go, you can pick "Exit."
+
+4. **Handle Choices:** Based on your choice, we do what you asked:
+   - If you added a task, we remember it.
+   - If you want to see your tasks, we show them to you.
+   - If you marked a task as done, we remember that too.
+   - If you want to delete a task, we'll help you with that.
+   - And if you're done with us, we'll save all your tasks back to `tasks.json` and say goodbye.
+
+5. **Repeat or Exit:** We keep showing you the menu until you say you want to exit. When you're ready to leave, we save everything and close up shop.
+
+And that's it! You can use this simple program to manage your tasks, adding, viewing, completing, and deleting them as you please.

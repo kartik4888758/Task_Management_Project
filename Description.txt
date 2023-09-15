@@ -1,0 +1,21 @@
+**Program Description:**
+
+This program helps you keep track of your tasks. It works like a digital to-do list.
+
+- **Adding Tasks:** You can add tasks by giving them a title and a description. It's like writing down what you need to do.
+
+- **Viewing Tasks:** The program shows you all your tasks, so you can see what's on your list.
+
+- **Marking Tasks Done:** When you finish a task, you can tell the program it's done, and it will remember that for you.
+
+- **Deleting Tasks:** If you decide you don't need a task anymore, you can delete it from your list.
+
+- **Saving Your List:** The program saves your tasks, so you don't lose them when you close it. It keeps them in a special file called `tasks.json`.
+
+- **Menu Choices:** You'll see a menu with options like "Add Task," "View Tasks," and so on. You pick what you want to do by choosing from this menu.
+
+- **Easy to Use:** It's easy to use, and you can do all this from your computer's command line.
+
+- **Persistent:** Your tasks will be there even if you close the program and open it again later.
+
+That's it! It's like having a digital notepad to manage your tasks and stay organized.
